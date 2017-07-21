@@ -1,5 +1,9 @@
 README - INERTIAL MIGRATION SQUARE CHANNEL CODE
 Kaitlyn Hood 2014
+DOI: 10.5281/zenodo.833532
+
+Cite as:
+Kaitlyn Hood. (2017, July 21). kthood/inertial-lift-force-rectangle-AR1: First release of inertial lift force rectangle AR1. Zenodo. http://doi.org/10.5281/zenodo.833532
 
 %——————————————————————————————————————————————————————————————————————————%
 getLiftForce_AR1.m
